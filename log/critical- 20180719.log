@@ -1,0 +1,4 @@
+[2018-07-19 00:47:07] App\Repositories\UsuarioRepository.CRITICAL: Intento fallido de autenticación para erodriguezp105@gmail.com [] []
+[2018-07-19 00:47:13] App\Repositories\UsuarioRepository.CRITICAL: Intento fallido de autenticación para erodriguezp105@gmail.com [] []
+[2018-07-19 00:52:48] App\Repositories\UsuarioRepository.CRITICAL: Intento fallido de autenticación para erodriguezp105@gmail.com [] []
+[2018-07-19 00:57:24] App\Repositories\UsuarioRepository.CRITICAL: Intento fallido de autenticación para demo@gmail.com [] []

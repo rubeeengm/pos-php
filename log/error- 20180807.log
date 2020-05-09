@@ -1,0 +1,2 @@
+[2018-08-07 14:37:07] app\repositories\ProductoRepository.ERROR: Can't write image data to path (public/media/producto-10.jpg) [] []
+[2018-08-07 14:49:47] app\repositories\ProductoRepository.ERROR: Can't write image data to path (public/media/producto-10.jpg) [] []

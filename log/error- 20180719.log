@@ -1,0 +1,1 @@
+[2018-07-19 00:56:02] App\Repositories\UsuarioRepository.ERROR: SQLSTATE[HY000] [1045] Access denied for user 'hola'@'localhost' (using password: NO) [] []

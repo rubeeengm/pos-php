@@ -1,0 +1,5 @@
+[2018-07-29 20:24:13] App\Repositories\ComprobanteRepository.ERROR: Undefined property: App\Repositories\ComprobanteRepository::$Comprobante [] []
+[2018-07-29 20:29:42] App\Repositories\ComprobanteRepository.ERROR: Undefined property: App\Repositories\ComprobanteRepository::$Comprobante [] []
+[2018-07-29 20:34:28] App\Repositories\ComprobanteRepository.ERROR: Undefined property: App\Repositories\ComprobanteRepository::$Comprobante [] []
+[2018-07-29 20:39:36] App\Repositories\ComprobanteRepository.ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'comprobante' in 'order clause' (SQL: select * from `comprobante` order by `comprobante` asc limit 20 offset 0) [] []
+[2018-07-29 20:42:55] App\Repositories\ComprobanteRepository.ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'comprobante' in 'order clause' (SQL: select * from `comprobante` order by `comprobante` asc limit 20 offset 0) [] []
